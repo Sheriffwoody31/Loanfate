@@ -1,0 +1,54 @@
+.bg-img { 
+    background-image: url(anim.jpg) ;
+    background-position: center center;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size:  cover;
+
+}
+body {
+    
+    font-family: Segoe UI;
+}
+
+#title{
+    font-family: Segoe UI;
+    position: center;
+}
+
+h1 {
+    margin-bottom: 40px
+}
+
+label {
+    color: #333
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    width: 80%;
+    margin-left: 3px
+}
+
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px
+}
+
+.fin{
+   position: center;
+}
+
+.card {
+    margin-left: 10px;
+    margin-right: 10px
+}
+#res1{
+    font-family: Trebuchet MS;
+    font-size: large;
+}
+#about{
+    font-family: Comic Sans MS;
+}
